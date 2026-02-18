@@ -71,29 +71,15 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ### 🔐 Security & DevSecOps
 ### 🔐 Security & DevSecOps
+### 🔐 Security & DevSecOps
 <p>
-  <!-- OWASP (Static & Dynamic) -->
-  <img src="https://skillicons.dev/icons?i=owasp" width="48" height="48" />
-
-  <!-- SonarQube (Static Code Analysis) -->
-  <img src="https://skillicons.dev/icons?i=sonarqube" width="48" height="48" />
-
-  <!-- TRVI (use generic security if specific not available) -->
-  <img src="https://skillicons.dev/icons?i=security" width="48" height="48" />
-
-  <!-- Cloudflare -->
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" />
-
-  <!-- SSO / Auth (using Auth0 as representative) -->
-  <img src="https://skillicons.dev/icons?i=auth0" width="48" height=48" />
-
-  <!-- OWASP ZAP (dynamic testing) -->
-  <img src="https://skillicons.dev/icons?i=owaspzap" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=owasp" width="48" height="48" alt="OWASP" />
+  <img src="https://skillicons.dev/icons?i=sonarqube" width="48" height="48" alt="SonarQube" />
+  <img src="https://skillicons.dev/icons?i=security" width="48" height="48" alt="Security" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=okta" width="48" height="48" alt="Okta (SSO)" />
+  <img src="https://skillicons.dev/icons?i=owaspzap" width="48" height="48" alt="OWASP ZAP" />
 </p>
-
-
-
-
 
 ### 🗄️ Version Control & Collaboration
 <p>
