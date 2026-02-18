@@ -72,17 +72,18 @@ My focus is on **scalability, reliability, security, and automation** across the
 ### 🔐 Security & DevSecOps
 <p>
   <!-- OWASP Static Testing -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OWASP_Logo_2018.svg/320px-OWASP_Logo_2018.svg.png" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/OWASP_Logo_2018.svg" width="48" height="48" alt="OWASP Logo" />
   
-  <!-- TRVI (If logo available, use its actual URL) -->
+  <!-- TRVI (Replace with actual logo if available) -->
   <img src="https://example.com/path/to/trvi-logo.svg" width="48" height="48" alt="TRVI Logo" />
   
   <!-- Cloudflare -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Cloudflare_logo_2018.svg" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Cloudflare_logo_2018.svg" width="48" height="48" alt="Cloudflare Logo" />
   
   <!-- Single Sign-On (SSO) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Okta_logo.svg" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Okta_logo.svg" width="48" height="48" alt="Okta Logo" />
 </p>
+
 
 
 
