@@ -70,8 +70,6 @@ My focus is on **scalability, reliability, security, and automation** across the
 </p>
 
 ### 🔐 Security & DevSecOps
-### 🔐 Security & DevSecOps
-### 🔐 Security & DevSecOps
 <p>
   <img src="https://skillicons.dev/icons?i=owasp" width="48" height="48" alt="OWASP" />
   <img src="https://skillicons.dev/icons?i=sonarqube" width="48" height="48" alt="SonarQube" />
