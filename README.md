@@ -84,37 +84,7 @@ My focus is on **scalability, reliability, security, and automation** across the
 <img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
 </p>
 
----
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Production Story: Kubernetes Pods Stuck in Pending on EKS? It Wasn’t CPU or Memory](https://aws.plainenglish.io/production-story-kubernetes-pods-stuck-in-pending-on-eks-it-wasnt-cpu-or-memory-0453a7206f67?source=rss-9ae0fed1d713------2)
-- [How I Troubleshoot Databases When My Application Suddenly Gets Slow](https://medium.com/codetodeploy/how-i-troubleshoot-databases-when-my-application-suddenly-gets-slow-737171acdc99?source=rss-9ae0fed1d713------2)
-- [How to Upgrade a Kubernetes Cluster Upgrade in a Production Environment with Zero Downtime: Things…](https://blog.stackademic.com/kubernetes-cluster-upgrade-on-on-prem-things-i-learned-the-hard-way-0f08682db65b?source=rss-9ae0fed1d713------2)
-- [AWS Certificate Manager Certificates: The Hidden Cost That Surprised Me](https://aws.plainenglish.io/aws-certificate-manager-certificates-the-hidden-cost-that-surprised-me-771cbc1cec01?source=rss-9ae0fed1d713------2)
-- [How to Become Job-Ready in DevOps &amp; Cloud in 45 Days &lpar;Real Project-Based Roadmap&rpar;](https://blog.stackademic.com/how-to-become-job-ready-in-devops-cloud-in-45-days-real-project-based-roadmap-24f656f5b561?source=rss-9ae0fed1d713------2)
-<!-- BLOG-POST-LIST:END -->
-
-📚 More articles: https://amanpathakdevops.medium.com
-
----
-
-## 🌍 Community & Learning
-
-- 👥 **Learn together on Discord**: https://discord.gg/jdzF8kTtw2
-- 📞 **1:1 guidance, mentorship, DevOps consulting & freelancing projects**:
-  https://topmate.io/aman_pathak10
-- 🎥 **DevOps & Cloud content on YouTube**:
-  https://www.youtube.com/@aman-pathak
-
----
-
-## ☕ Support My Work
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aman.pathak)
-
----
+----
 
 ## 🤝 Connect With Me
 
@@ -148,5 +118,5 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ---
 
-📫 Reach me at **aman.pathakbz@gmail.com**<br>
+📫 Reach me at **naveedulah172@gmail.com**<br>
 ⚡ Fun fact: I am an extrovert who enjoys solving real production problems
