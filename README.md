@@ -72,7 +72,7 @@ My focus is on **scalability, reliability, security, and automation** across the
 ### 🔐 Security & DevSecOps
 <p>
   <!-- OWASP Static Testing -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/OWASP_Logo_2018.svg" width="48" height="48" alt="OWASP Logo" />
+  <img src="https://www.streamlinehq.com/icons/download/owasp--31088" width="48" height="48" alt="OWASP Logo" />
   
   <!-- TRVI (Replace with actual logo if available) -->
   <img src="https://example.com/path/to/trvi-logo.svg" width="48" height="48" alt="TRVI Logo" />
