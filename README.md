@@ -71,10 +71,22 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ### 🔐 Security & DevSecOps
 <p>
-<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
+  <!-- OWASP Static Testing -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OWASP_Logo_2018.svg/320px-OWASP_Logo_2018.svg.png" width="48" height="48" />
+  
+  <!-- OWASP Dynamic Testing -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OWASP_Logo_2018.svg/320px-OWASP_Logo_2018.svg.png" width="48" height="48" />
+  
+  <!-- TRVI (Vulnerability Testing) - Replace with logo if available -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/OWASP_logo.svg" width="48" height="48" alt="TRVI Logo" />
+  
+  <!-- Cloudflare -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Cloudflare_logo_2018.svg" width="48" height="48" />
+  
+  <!-- Single Sign-On (SSO) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Okta_logo.svg" width="48" height="48" />
 </p>
+
 
 ### 🗄️ Version Control & Collaboration
 <p>
