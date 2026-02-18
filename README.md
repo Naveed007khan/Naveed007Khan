@@ -91,7 +91,7 @@ My focus is on **scalability, reliability, security, and automation** across the
 <p align="left">
 <a href="www.linkedin.com/in/naveed-ullah-38627536b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
----
+----
 
 📫 Reach me at **naveedulah172@gmail.com**<br>
 ⚡ Fun fact: I am an extrovert who enjoys solving real production problems
