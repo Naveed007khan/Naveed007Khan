@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Naveed Ullah from Pakistan 🇵🇰 </h1>
 
 <h3 align="center">
-Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
+  DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 </h3>
 
 <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
