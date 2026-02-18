@@ -74,11 +74,8 @@ My focus is on **scalability, reliability, security, and automation** across the
   <!-- OWASP Static Testing -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OWASP_Logo_2018.svg/320px-OWASP_Logo_2018.svg.png" width="48" height="48" />
   
-  <!-- OWASP Dynamic Testing -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OWASP_Logo_2018.svg/320px-OWASP_Logo_2018.svg.png" width="48" height="48" />
-  
-  <!-- TRVI (Vulnerability Testing) - Replace with logo if available -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/OWASP_logo.svg" width="48" height="48" alt="TRVI Logo" />
+  <!-- TRVI (If logo available, use its actual URL) -->
+  <img src="https://example.com/path/to/trvi-logo.svg" width="48" height="48" alt="TRVI Logo" />
   
   <!-- Cloudflare -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Cloudflare_logo_2018.svg" width="48" height="48" />
@@ -86,6 +83,7 @@ My focus is on **scalability, reliability, security, and automation** across the
   <!-- Single Sign-On (SSO) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Okta_logo.svg" width="48" height="48" />
 </p>
+
 
 
 ### 🗄️ Version Control & Collaboration
