@@ -71,9 +71,9 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ### 🔐 Security & DevSecOps
 <p>
-  <img src="https://raw.githubusercontent.com/Naveed-DevOps/your-repository-name/main/icons/owasp.svg" width="48" height="48" alt="OWASP Logo" />
-  <img src="https://raw.githubusercontent.com/Naveed-DevOps/your-repository-name/main/icons/trivy.svg" width="48" height="48" alt="TRIVY Logo" />
-  <img src="https://raw.githubusercontent.com/Naveed-DevOps/your-repository-name/main/icons/dependencycheck.svg" width="48" height="48" alt="Dependency Check Logo" />
+  <img src="https://raw.githubusercontent.com/Naveed-DevOps/Naveed-DevOps/main/icons/owasp.svg" width="48" height="48" alt="OWASP Logo" />
+  <img src="https://raw.githubusercontent.com/Naveed-DevOps/Naveed-DevOps/main/icons/trivy.svg" width="48" height="48" alt="TRIVY Logo" />
+  <img src="https://raw.githubusercontent.com/Naveed-DevOps/Naveed-DevOps/main/icons/dependencycheck.svg" width="48" height="48" alt="Dependency Check Logo" />
   <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
   
 </p>
