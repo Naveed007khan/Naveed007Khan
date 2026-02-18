@@ -89,20 +89,8 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://dev.to/@amandevops"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<a href="https://www.linkedin.com/in/aman-devops"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/amanpathak.devops"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://amanpathakdevops.medium.com"><img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" /></a>
-<a href="https://www.youtube.com/@aman-pathak"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" /></a>
+<a href="www.linkedin.com/in/naveed-ullah-38627536b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
-
----
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathak-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-
-
 ---
 
 📫 Reach me at **naveedulah172@gmail.com**<br>
