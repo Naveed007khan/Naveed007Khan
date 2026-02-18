@@ -70,19 +70,27 @@ My focus is on **scalability, reliability, security, and automation** across the
 </p>
 
 ### 🔐 Security & DevSecOps
+### 🔐 Security & DevSecOps
 <p>
-  <!-- OWASP Static Testing -->
-  <img src="https://www.streamlinehq.com/icons/download/owasp--31088" width="48" height="48" alt="OWASP Logo" />
-  
-  <!-- TRVI (Replace with actual logo if available) -->
-  <img src="https://example.com/path/to/trvi-logo.svg" width="48" height="48" alt="TRVI Logo" />
-  
+  <!-- OWASP (Static & Dynamic) -->
+  <img src="https://skillicons.dev/icons?i=owasp" width="48" height="48" />
+
+  <!-- SonarQube (Static Code Analysis) -->
+  <img src="https://skillicons.dev/icons?i=sonarqube" width="48" height="48" />
+
+  <!-- TRVI (use generic security if specific not available) -->
+  <img src="https://skillicons.dev/icons?i=security" width="48" height="48" />
+
   <!-- Cloudflare -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Cloudflare_logo_2018.svg" width="48" height="48" alt="Cloudflare Logo" />
-  
-  <!-- Single Sign-On (SSO) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Okta_logo.svg" width="48" height="48" alt="Okta Logo" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" />
+
+  <!-- SSO / Auth (using Auth0 as representative) -->
+  <img src="https://skillicons.dev/icons?i=auth0" width="48" height=48" />
+
+  <!-- OWASP ZAP (dynamic testing) -->
+  <img src="https://skillicons.dev/icons?i=owaspzap" width="48" height="48" />
 </p>
+
 
 
 
