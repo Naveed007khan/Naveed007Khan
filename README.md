@@ -93,7 +93,7 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/naveed-ullah-38627536b">
+  <a href="www.linkedin.com/in/naveed-devops">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
